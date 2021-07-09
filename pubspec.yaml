@@ -25,6 +25,9 @@ dependencies:
     sdk: flutter
   fluro: ^2.0.3
   google_fonts: ^2.1.0
+  animate_do: ^2.0.0
+  provider: ^5.0.0
+  universal_html: ^2.0.8
 
 
   # The following adds the Cupertino Icons font to your application.
